@@ -10,3 +10,17 @@
         text-align: center;
     }
 
+    #sample{
+
+        background-color: rebeccapurple;
+        text-align: center;
+    }
+
+    body{
+background-image: url(/img/background.jpeg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+
+    }
+
