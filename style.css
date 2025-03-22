@@ -3,7 +3,8 @@ background-color: blue;
 height: 100px;
 width: 100px;
 padding: 10px;
-position: relative;
-top: 50px;
+position: sticky;
+bottom: 50px;
 left: 50px;
+z-index:  2;
 }
